@@ -30,7 +30,7 @@ I love combining **clean code** with **creative design** to deliver professional
 
 ### 📫 How to reach me:
 - Email: **chaimaejallouli@gmail.com**  
-< -- - LinkedIn: [linkedin.com/in/chaimaejallouli](#)  !-->
+< -- - LinkedIn: [linkedin.com/in/chaimaejallouli](#)  --!>
 - WhatsApp: **+212 691705435**  
 
 ### ⚡ Fun fact:
