@@ -30,7 +30,7 @@ Always learning, always building, and exploring **AI integration in business and
 - Passionate about AI and automation in business  
 - Always exploring new technologies and design trends  
 
-### 📫 Contact & Portfolio:
+### 📫 Contact:
 - Email: **cjallouli10@gmail.com**  
 - WhatsApp: **+212 691705435**  
 <!-- - LinkedIn: [linkedin.com/in/chaimaejallouli](#)  
