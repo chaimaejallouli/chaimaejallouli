@@ -29,7 +29,7 @@ I love combining **clean code** with **creative design** to deliver professional
 - **Graphic design & branding** (logos, posts, posters)  
 
 ### 📫 How to reach me:
-- Email: **chaimaejallouli@gmail.com**  
+- Email: **cjallouli10@gmail.com**  
 <!-- - LinkedIn: [linkedin.com/in/chaimaejallouli](#)  -->
 - WhatsApp: **+212 691705435**  
 
