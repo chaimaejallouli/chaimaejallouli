@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm Chaimae Jallouli  
 
-<!--
-**chaimaejallouli/chaimaejallouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | Freelancer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive, and user-friendly web applications.  
+I love combining **clean code** with **creative design** to deliver professional digital solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently working on:
+- Developing **custom websites** (Showcase, Blogs, E-commerce, Portfolios)  
+- Building **Laravel & ReactJS projects**  
+- Exploring **AI integration in accounting & ERP systems**  
+
+### 🌱 Currently learning:
+- Advanced **Laravel & Livewire**  
+- **ReactJS best practices**  
+- **Bootstrap & Tailwind CSS** for professional UI/UX  
+- AI & automation in business applications  
+
+### 👯 Looking to collaborate on:
+- Open-source projects related to **web development**  
+- Innovative SaaS & ERP solutions  
+- Creative website design projects  
+
+### 💬 Ask me about:
+- **Professional website development (custom / WordPress)**  
+- **SEO optimization** for better visibility  
+- **Graphic design & branding** (logos, posts, posters)  
+
+### 📫 How to reach me:
+- Email: **chaimaejallouli@gmail.com**  
+- LinkedIn: [linkedin.com/in/chaimaejallouli](#)  
+- WhatsApp: **+212 691705435**  
+
+### ⚡ Fun fact:
+I enjoy turning ideas into digital products 🚀 and I believe that **every detail counts** in both code and design.  
+
+---
+✨ *Always learning, always building.*  
