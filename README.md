@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chaimae Jallouli  
+<!-- # Hi there 👋, I'm Chaimae Jallouli  
 
 💻 **Full-Stack Developer | Freelancer | Tech Enthusiast**  
 
@@ -37,4 +37,4 @@ Always learning, always building, and exploring **AI integration in business and
 - Portfolio: [YourPortfolioLinkHere](#)   -->
 
 ---
-✨ *Always learning, always building.*  
+✨ *Always learning, always building.*  -->
