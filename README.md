@@ -33,8 +33,9 @@ Always learning, always building, and exploring **AI integration in business and
 ### 📫 Contact:
 - Email: **cjallouli10@gmail.com**  
 - WhatsApp: **+212 691705435**  
-<!-- - LinkedIn: [linkedin.com/in/chaimaejallouli](#)  
-- Portfolio: [YourPortfolioLinkHere](#)   -->
+- LinkedIn: [linkedin.com/in/chaimaejallouli](#)  
+- Portfolio: [YourPortfolioLinkHere](#)   
 
 ---
-✨ *Always learning, always building.*  -->
+✨ *Always learning, always building.* 
+-->
