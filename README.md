@@ -30,20 +30,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (fiables)
 
 ![Top Languages](https://img.shields.io/github/languages/top/chaimaejallouli?style=flat-square)
 ![Total Repositories](https://img.shields.io/github/repos/chaimaejallouli?style=flat-square)
 ![Followers](https://img.shields.io/github/followers/chaimaejallouli?style=flat-square)
-
-
 
 ---
 
 ## 📫 Contact
 
 📧 **Email** : chaimaejallouli00@gmail.com  
-💼 **LinkedIn** : [Chaimae Jallouli](https://www.linkedin.com/in/chaimae-jallouli-a73470395/)
+💼 **LinkedIn** : [Chaimae Jallouli](https://www.linkedin.com/in/chaimae-jallouli-a73470395/)  
+📸 **Instagram** : [@shidea.web](https://www.instagram.com/shidea.web/)
 
 ---
 
